@@ -1,0 +1,98 @@
+.profile{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:16px;
+    width: 600px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin: 60px auto;
+}
+
+.img{
+    margin: 30px;
+    border-radius: 100px;
+}
+
+.link{
+    color:rgb(39, 160,252)
+    
+}
+
+.downbox{
+    height: 1px;
+    background-color: grey;
+    margin: 0 -16px 15px;
+    box-sizing: border-box;
+}
+
+.outerbox{
+    margin: 60px auto;
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    padding:16px;
+    border: 1px solid black;
+}
+
+.innerbox{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+    background-color: rgb(26,255,158);
+    width: 100%;
+    height: 100%;
+    padding: 80px 30px 30px 30px;
+    border-radius: 10px;
+}
+
+h1{
+    margin: 0px;
+}
+
+.btn2{
+    width: 200px;
+    padding: 20px;
+    border-radius: 30px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}
+.assignment3{
+  margin: 60px auto;
+  background-color: white;
+  width: 400px;
+  padding:16px;
+  border: 1px solid grey;
+  
+}
+
+.inner3{
+  width: 100%;
+  border: 1px solid grey;
+  border-radius: 25px;
+  padding: 16px;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.img2{
+  width: 100%;
+  border-radius: 25px;
+}
+
+.paragraphfor3{
+  color: grey;
+}
+
+.BTN3{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 10px;
+  border:1px solid grey;
+  background-color: white;
+  width: 50%;
+  color: RGB(26, 115, 232);
+  font-weight: bold;
+}
